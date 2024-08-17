@@ -1,0 +1,90 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore build directories and files
+/build/
+/dist/
+/out/
+/bin/
+/obj/
+/target/
+
+# Ignore dependency directories
+/node_modules/
+/vendor/
+/packages/
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore compiled C/C++ files
+*.o
+*.out
+*.a
+*.so
+*.dll
+*.exe
+
+# Ignore JavaScript/TypeScript compiled files
+*.log
+*.tsbuildinfo
+*.bundle.js
+*.min.js
+*.map
+*.module.js
+*.esm.js
+
+# Ignore logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore environment variable files
+.env
+.env.local
+.env.*.local
+
+# Ignore specific build artifacts
+*.tar.gz
+*.zip
+*.jar
+*.war
+*.ear
+*.msi
+*.dmg
+*.pkg
+*.deb
+*.rpm
+*.exe
+
+# Ignore coverage reports
+/coverage/
+/test-results/
+/reports/
+
+# Ignore OS-specific swap files
+*.swp
+*.swo
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+
