@@ -1,0 +1,1 @@
+/home/kv/urdf_example/build/urdf_example/ament_cmake_environment_hooks/local_setup.zsh
